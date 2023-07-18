@@ -45,6 +45,15 @@ pnpm build
 
 To develop all apps and packages, run the following command:
 
+install packages in each apps/
+
+```
+cd apps/...
+pnpm install
+```
+
+change directory to root project
+
 ```
 cd my-turborepo
 pnpm dev
