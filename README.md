@@ -1,4 +1,4 @@
-# Turborepo starter
+# Solid Client
 
 This is an official starter Turborepo.
 
