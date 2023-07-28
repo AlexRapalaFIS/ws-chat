@@ -83,7 +83,6 @@ const App: Component = () => {
   const sendMessage = () => {
     ws()?.send(
       JSON.stringify({
-        username: username(),
         message: message(),
       })
     );
