@@ -9,7 +9,7 @@
 
 # Task
 
-You will need to create a websocket chat. It should look vaguely similar to whatsapp in that whenever you get a message, you know who it is coming from.
+You will need to create a websocket chat. It should look vaguely similar to whatsapp in that whenever you get a message, you know who it is coming from. Everything you need to complete a chat is within this repository. You should not add anything unless you wish to use a different frontend framework (vue, angular, vanilla, etc)
 
 # Installation
 
